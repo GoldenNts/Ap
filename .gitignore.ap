@@ -1,8 +1,8 @@
-### AL ###
-#Template for AL projects for Dynamics 365 Business Central
-#launch.json folder
-.vscode/
-#Cache folder
+### AL ### 
+#Plantilla para proyectos AL para Dynamics 365 Business Central
+carpeta #launch.json
+.vscode/ 
+#carpeta de cache
 .alcache/
 #Symbols folder
 .alpackages/
